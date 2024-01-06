@@ -32,3 +32,10 @@
 }
 
 
+.headphone{
+    background-image: url(./images/image10-m.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
