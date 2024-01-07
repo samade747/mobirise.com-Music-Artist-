@@ -44,13 +44,11 @@
 .via{
     background-image: url(./images/image6.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
-    height: 1200px;
-    width: 100%   ;
+    background-size: cover;
+    background-position: center;
+    height: 600px;   
 
 }
-
-
 .social-buttons {
     display: flex;
     justify-content: center;
